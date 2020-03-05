@@ -56,6 +56,7 @@ form, .searchBar{
 
 .searchBar {
     width: 15px;
+    height: 15px;
 }
 
 .main-search {
@@ -63,7 +64,7 @@ form, .searchBar{
 }
 
 .second-header {
-    height: 70px;
+    height: 55px;
     display: flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
@@ -79,11 +80,12 @@ form, .searchBar{
     padding: 10px 20px 10px 20px;
 }
 
+
 .join-box {
     background-color: white; 
-    padding: 5px 15px;   
+    padding: 4px 15px;   
     border: 1px solid black;
-    margin-left: 15px;
+    margin-left: 27px;
 }
 
 .logIn {
@@ -193,7 +195,8 @@ h3 {
 
 .container {
     width: 200px;
-    height: 100px;
+    height: 260px;
+    position: center;
     padding: 30px 50px 30px 50px;
 }
   
@@ -203,4 +206,5 @@ h3 {
 
 #information img {
     width: 30px;
+    height: 30px;
 }
